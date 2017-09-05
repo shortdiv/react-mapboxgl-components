@@ -1,11 +1,14 @@
 import React, { Component } from 'react'
 
-import Map from './map'
+import MapLayer from './mapLayer'
 
 class MapView extends Component {
   render() {
     return (
-      <Map />
+      <MapLayer
+        width={1000}
+        height={1000}
+      />
     )
   }
 }
