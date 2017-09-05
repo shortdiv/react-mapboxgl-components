@@ -20,10 +20,28 @@ class MapView extends Component {
           url="mapbox://shortdiv.cj4u72j500fu72qplj0xcusp3-738n8"
         />
         <Layer
+          id="neighborhoods-border"
+          sourceId="neighborhoods"
+          sourceLayer="chicago_neighborhoods"
+          type="line"
+          styles={{
+            "paint": {
+              "line-color": "#ad0403",
+              "line-width": 2
+            }
+          }}
+        />
+        <Layer
           id="neighborhoods-fill"
           sourceId="neighborhoods"
           sourceLayer="chicago_neighborhoods"
-          ref={neighborhoods => this.neighborhoods = neighborhoods}
+          type="fill"
+          styles={{
+            "paint": {
+              "fill-color": "#b3d5ed",
+              "fill-opacity": 0.47
+            }
+          }}
         />
       </BaseMap>
     )
