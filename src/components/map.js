@@ -5,11 +5,13 @@ class Map extends Component {
   constructor(props) {
     super(props)
     MapboxGl.accessToken = "pk.eyJ1IjoiYWxscnlkZXIiLCJhIjoidWs5cUFfRSJ9.t8kxvO3nIhCaAl07-4lkNw"
+    this.state = {
+    }
   }
 
   componentDidMount() {
     const map = new MapboxGl.Map({
-      container: this.refs.container,
+      container: this.mapbox,
       style: 'mapbox://styles/mapbox/light-v9',
       center: [12.338, 45.4385],
       zoom: 9
@@ -17,8 +19,11 @@ class Map extends Component {
   }
 
   render() {
+    const { map } = this.state
     return (
-      <div id="maps" ref="container">
+      <div id="container"
+        ref={ref => this.mapbox = ref}
+      >
       </div>
     )
   }

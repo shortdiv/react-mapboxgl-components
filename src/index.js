@@ -4,6 +4,3 @@ import MapView from './components/mapView'
 
 ReactDOM.render(<MapView />, document.getElementById('map'))
 
-if(module.hot) {
-  module.hot.accept();
-}
