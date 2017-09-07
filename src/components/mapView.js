@@ -3,6 +3,7 @@ import React, { Component } from 'react'
 import BaseMap from './baseMap'
 import Source from './source'
 import Layer from './layer'
+import GeojsonLayer from './geojsonLayer'
 
 class MapView extends Component {
   render() {
@@ -21,25 +22,35 @@ class MapView extends Component {
         />
         <Layer
           id="neighborhoods-border"
+          type="line"
           sourceId="neighborhoods"
           sourceLayer="chicago_neighborhoods"
-          type="line"
           styles={{
             "paint": {
-              "line-color": "#ad0403",
-              "line-width": 2
+              "line-color": "#877b59",
+              "line-width": 1
             }
           }}
         />
-        <Layer
-          id="neighborhoods-fill"
-          sourceId="neighborhoods"
-          sourceLayer="chicago_neighborhoods"
-          type="fill"
+        <GeojsonLayer
+          id="bikes"
+          type="symbol"
+          data={{
+            "type": "FeatureCollection",
+            "features": [{
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [-87.62408432, 41.8810317]
+              },
+              "properties": {
+                "icon": "bicycle"
+              }
+            }]
+          }}
           styles={{
-            "paint": {
-              "fill-color": "#b3d5ed",
-              "fill-opacity": 0.47
+            "layout": {
+              "icon-image": "{icon}-15",
             }
           }}
         />
