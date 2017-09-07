@@ -22,7 +22,8 @@ class BaseMap extends Component {
       container: this.mapbox,
       style: mapStyle,
       center: center,
-      zoom: 9
+      zoom: 9,
+      maxZoom: 15
     })
     map.on('load', (...args) => {
       this.setState({
