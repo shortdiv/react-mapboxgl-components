@@ -7,6 +7,7 @@ class GeojsonLayer extends Component {
       id,
       type,
       data,
+      onClick,
       styles
     } = this.props
     const { paint, layout } = styles
@@ -25,6 +26,17 @@ class GeojsonLayer extends Component {
       source: id,
       layout: layout
     })
+    map.on('click', id, onClick)
+    map.on('mouseenter', id, () => {
+      map.getCanvas().style.cursor = 'pointer'
+    })
+    map.on('mouseleave', id, () => {
+      map.getCanvas().style.cursor = ''
+    })
+  }
+  componentWillUnmount() {
+    map.removeSource(this.props.id)
+    map.removeLayer(this.props.id)
   }
   render() {
     return null
