@@ -9,7 +9,15 @@ module.exports = {
     publicPath: '/',
   },
   devServer: {
-    contentBase: './dist'
+    contentBase: './dist',
+    hot: true,
+    inline: true,
+    proxy: {
+      '^/yelpit/*': {
+        target: 'http://localhost:8000/yelpit',
+        secure: false
+      }
+    }
   },
   module: {
     loaders: [

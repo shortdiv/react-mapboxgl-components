@@ -4,7 +4,8 @@
   "description": "React Components for Mapbox GL",
   "main": "server.js",
   "scripts": {
-    "start": "webpack-dev-server --progress --inline --hot"
+    "start": "webpack-dev-server --progress --inline --hot",
+    "dev-server": "node ./server.js"
   },
   "author": "Divya Sasidharan",
   "license": "MIT",
@@ -15,7 +16,8 @@
   "dependencies": {
     "mapbox-gl": "^0.39.1",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "yelp-fusion": "^1.0.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -24,6 +26,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-react-hmre": "^1.1.1",
+    "express": "^4.15.4",
     "json-loader": "^0.5.7",
     "webpack": "^3.5.5",
     "webpack-dev-server": "^2.7.1"

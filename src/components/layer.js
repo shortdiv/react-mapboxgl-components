@@ -11,17 +11,15 @@ class Layer extends Component {
       styles,
       before
     } = this.props
-    debugger;
     const { paint } = styles
     const sourceSrc = map.getSource(sourceId)
     map.addLayer({
       id: id,
+      type: type,
       source: sourceId,
       "source-layer": sourceLayer,
-      type: type,
       paint: styles.paint
     }, before)
-    debugger;
   }
   render() {
     return null
