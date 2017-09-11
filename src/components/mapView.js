@@ -31,7 +31,11 @@ class MapView extends Component {
         })
     })
   }
-
+  showCafe(ev) {
+    if(ev) {
+      this.flyTo({center: ev.features[0].geometry.coordinates})
+    }
+  }
   makeGeoJSON(input) {
     let data = []
     input.map((t) => {
@@ -84,6 +88,7 @@ class MapView extends Component {
           id="cafe"
           type="symbol"
           data={cafes}
+          onClick={this.showCafe}
           styles={{
             "layout": {
               "icon-image": "cafe-15",
