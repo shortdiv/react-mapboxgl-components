@@ -6,12 +6,19 @@ class Source extends Component {
   }
   componentDidMount() {
     const { map } = this.context
-    const { id, url } = this.props
+    const { id, url, data } = this.props
 
-    map.addSource(id, {
-      type: 'vector',
-      url: url
-    })
+    if(url) {
+      map.addSource(id, {
+        type: 'vector',
+        url: url
+      })
+    } else {
+      map.addSource(id, {
+        type: 'vector',
+        data: data
+      })
+    }
   }
   render() {
     return null

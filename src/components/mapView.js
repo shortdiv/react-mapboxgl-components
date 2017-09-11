@@ -5,8 +5,56 @@ import Source from './source'
 import Layer from './layer'
 import GeojsonLayer from './geojsonLayer'
 
+const yelp = require('yelp-fusion');
+const fetchJsonp = require('fetch-jsonp');
+
 class MapView extends Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      cafes: []
+    }
+  }
+  componentDidMount() {
+    this.shops().then((res) => {
+      this.setState({
+        cafes: this.makeGeoJSON(res)
+      })
+    })
+  }
+  shops() {
+    return new Promise((resolve, reject) => {
+      let url = "http://0.0.0.0:8000/yelpit/starbucks/chicago,il"
+      fetch(url)
+        .then((res) => {
+          resolve(res.json())
+        })
+    })
+  }
+
+  makeGeoJSON(input) {
+    let data = []
+    input.map((t) => {
+      var feat = {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [t.coordinates.longitude, t.coordinates.latitude]
+        },
+        "properties": {
+          "title": t.name,
+          "address": t.location.display_address,
+          "rating": t.rating,
+          "image": t.image_url,
+          "icon": "cafe"
+        }
+      }
+      data.push(feat)
+    })
+    return data
+  }
   render() {
+    let { cafes } = this.state
     return (
       <BaseMap
         mapStyle="mapbox://styles/mapbox/light-v9"
@@ -33,24 +81,12 @@ class MapView extends Component {
           }}
         />
         <GeojsonLayer
-          id="bikes"
+          id="cafe"
           type="symbol"
-          data={{
-            "type": "FeatureCollection",
-            "features": [{
-              "type": "Feature",
-              "geometry": {
-                "type": "Point",
-                "coordinates": [-87.62408432, 41.8810317]
-              },
-              "properties": {
-                "icon": "bicycle"
-              }
-            }]
-          }}
+          data={cafes}
           styles={{
             "layout": {
-              "icon-image": "{icon}-15",
+              "icon-image": "cafe-15",
             }
           }}
         />

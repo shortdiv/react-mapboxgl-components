@@ -10,15 +10,19 @@ class GeojsonLayer extends Component {
       styles
     } = this.props
     const { paint, layout } = styles
-    const src = {
-      "type": "geojson",
-      "data": data
-    }
+
+    map.addSource(id, {
+      "type": 'geojson',
+      "data": {
+        "type": "FeatureCollection",
+        "features": data
+      }
+    })
 
     map.addLayer({
       id: id,
       type: type,
-      source: src,
+      source: id,
       layout: layout
     })
   }
