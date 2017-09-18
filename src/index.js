@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import MapView from './components/mapView'
+import HubwayBike from './examples/HubwayBike'
 
-ReactDOM.render(<MapView />, document.getElementById('map'))
+ReactDOM.render(<HubwayBike />, document.getElementById('map'))
 

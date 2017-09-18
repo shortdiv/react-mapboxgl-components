@@ -6,11 +6,11 @@ class Layer extends Component {
     const {
       id,
       sourceId,
-      sourceLayer,
       type,
       styles,
       before
     } = this.props
+    const sourceLayer = this.props.sourceLayer ? this.props.sourceLayer : ""
     const { paint } = styles
     const sourceSrc = map.getSource(sourceId)
     map.addLayer({
@@ -20,6 +20,12 @@ class Layer extends Component {
       "source-layer": sourceLayer,
       paint: styles.paint
     }, before)
+  }
+  componentWillReceiveProps(nextProps) {
+    if(nextProps.data === this.props.data) {
+      //do something/
+debugger
+    }
   }
   render() {
     return null
