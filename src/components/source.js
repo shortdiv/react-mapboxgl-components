@@ -6,18 +6,23 @@ class Source extends Component {
   }
   componentDidMount() {
     const { map } = this.context
-    const { id, url, data } = this.props
+    const { id, type, url, data } = this.props
 
     if(url) {
       map.addSource(id, {
-        type: 'vector',
+        type: type,
         url: url
       })
     } else {
       map.addSource(id, {
-        type: 'vector',
+        type: type,
         data: data
       })
+    }
+  }
+  componentWillReceiveProps(nextProps) {
+    if(nextProps.data != this.props.data) {
+      debugger
     }
   }
   render() {

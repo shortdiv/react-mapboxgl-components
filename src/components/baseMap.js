@@ -17,18 +17,24 @@ class BaseMap extends Component {
   }
 
   componentDidMount() {
-    const { mapStyle, center } = this.props
+    const {
+      mapStyle,
+      styles,
+      center,
+      zoom,
+      onClick
+    } = this.props
     const map = new MapboxGl.Map({
       container: this.mapbox,
       style: mapStyle,
       center: center,
-      zoom: 9,
-      maxZoom: 15
+      zoom: zoom
     })
     map.on('load', (...args) => {
       this.setState({
         map
       })
+      map.on('click', onClick)
     })
   }
   shouldComponentUpdate(nextProps, nextState) {
