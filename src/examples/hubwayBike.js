@@ -14,6 +14,8 @@ class HubwayBike extends Component {
       center: [-71.114214, 42.366621],
       zoom: 11,
       bikeRoutes: null,
+      ride: null,
+      index: 0
     }
   }
   getBikeTrips() {
@@ -23,12 +25,33 @@ class HubwayBike extends Component {
     })
   }
   componentDidMount() {
-    this.getBikeTrips()
-      .then((data) => {
-          this.setState({
-            bikeRoutes: data
-          })
+    this.timer = setInterval(
+      () => this.rideOn(),
+      1000
+    );
+    //this.getBikeTrips()
+    //  .then((data) => {
+    //      this.setState({
+    //        bikeRoutes: data
+    //      })
+    //  })
+  }
+  rideOn() {
+    let { index } = this.state
+    if(index <= data.features.length) {
+      const datum = data.features[index]
+      const feat = {
+        "type": "FeatureCollection",
+        "features": [datum]
+      }
+      console.log(feat)
+      this.setState({
+        bikeRoutes: feat,
+        index: this.state.index + 1
       })
+    } else {
+      clearInterval(this.timer);
+    }
   }
   render() {
     const {
