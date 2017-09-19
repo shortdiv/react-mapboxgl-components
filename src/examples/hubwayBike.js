@@ -12,8 +12,18 @@ class HubwayBike extends Component {
     super(props)
     this.state = {
       center: [-71.114214, 42.366621],
-      zoom: 11,
-      bikeRoutes: null,
+      zoom: 13,
+      bikeRoutes: {
+        type: "FeatureCollection",
+        features: [{
+          type: "Feature",
+          geometry: {
+            type: "LineString",
+            coordinates: []
+          }
+        }]
+      },
+      coords: [],
       ride: null,
       index: 0,
       raf: 0
@@ -34,15 +44,12 @@ class HubwayBike extends Component {
     cancelAnimationFrame(this.state.raf)
   }
   rideOn() {
-    let { index } = this.state
-    if(index < data.features.length) {
-      const datum = data.features[index]
-      const feat = {
-        "type": "FeatureCollection",
-        "features": [datum]
-      }
+    let { index, bikeRoutes } = this.state
+    const journey = data.features[0].geometry.coordinates
+    if(index < journey.length) {
+      bikeRoutes.features[0].geometry.coordinates.push(journey[index])
       this.setState({
-        bikeRoutes: feat,
+        bikeRoutes: bikeRoutes,
         index: this.state.index + 1,
         raf: requestAnimationFrame(this.rideOn.bind(this))
       })
