@@ -1,0 +1,5779 @@
+{"type": "FeatureCollection",
+"features": [
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.114214,
+          42.366621
+        ],
+        [
+          -71.1031,
+          42.36507
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+      "endStation": "Central Square at Mass Ave / Essex St",
+      "tripDuration": 366
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1031,
+          42.36507
+        ],
+        [
+          -71.102861166,
+          42.3374174846
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Square at Mass Ave / Essex St",
+      "endStation": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+      "tripDuration": 1249
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.102861166,
+          42.3374174846
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 1079
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.1039447784,
+          42.3556012133
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "MIT Vassar St",
+      "tripDuration": 1033
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1039447784,
+          42.3556012133
+        ],
+        [
+          -71.1031,
+          42.36507
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Vassar St",
+      "endStation": "Central Square at Mass Ave / Essex St",
+      "tripDuration": 558
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1031,
+          42.36507
+        ],
+        [
+          -71.1190187931,
+          42.3867480205
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Square at Mass Ave / Essex St",
+      "endStation": "Lesley University",
+      "tripDuration": 848
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1190187931,
+          42.3867480205
+        ],
+        [
+          -71.116772,
+          42.400877
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lesley University",
+      "endStation": "Powder House Circle - Nathan Tufts Park",
+      "tripDuration": 573
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.116772,
+          42.400877
+        ],
+        [
+          -71.065209657,
+          42.3613040701
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Powder House Circle - Nathan Tufts Park",
+      "endStation": "Cambridge St at Joy St",
+      "tripDuration": 1546
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.065209657,
+          42.3613040701
+        ],
+        [
+          -71.076472,
+          42.366981
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cambridge St at Joy St",
+      "endStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "tripDuration": 637
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076472,
+          42.366981
+        ],
+        [
+          -71.084105,
+          42.362613
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "endStation": "One Broadway / Kendall Sq at Main St / 3rd St",
+      "tripDuration": 259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.084105,
+          42.362613
+        ],
+        [
+          -71.076472,
+          42.366981
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "One Broadway / Kendall Sq at Main St / 3rd St",
+      "endStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "tripDuration": 213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076472,
+          42.366981
+        ],
+        [
+          -71.0849547386,
+          42.3624278429
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "endStation": "Kendall T",
+      "tripDuration": 320
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0849547386,
+          42.3624278429
+        ],
+        [
+          -71.1339466274,
+          42.3485201458
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kendall T",
+      "endStation": "Allston Green District - Griggs St at Commonwealth Ave",
+      "tripDuration": 984
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1339466274,
+          42.3485201458
+        ],
+        [
+          -71.0773265362,
+          42.3497670101
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Allston Green District - Griggs St at Commonwealth Ave",
+      "endStation": "Copley Square - Dartmouth St at Boylston St",
+      "tripDuration": 1235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0773265362,
+          42.3497670101
+        ],
+        [
+          -71.068922,
+          42.341522
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Copley Square - Dartmouth St at Boylston St",
+      "endStation": "Washington St at Waltham St",
+      "tripDuration": 367
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.068922,
+          42.341522
+        ],
+        [
+          -71.059367,
+          42.351356
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Washington St at Waltham St",
+      "endStation": "Chinatown Gate Plaza",
+      "tripDuration": 519
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.059367,
+          42.351356
+        ],
+        [
+          -71.050877,
+          42.363871
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Chinatown Gate Plaza",
+      "endStation": "Lewis Wharf at Atlantic Ave",
+      "tripDuration": 608
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.050877,
+          42.363871
+        ],
+        [
+          -71.050877,
+          42.363871
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lewis Wharf at Atlantic Ave",
+      "endStation": "Lewis Wharf at Atlantic Ave",
+      "tripDuration": 181
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.050877,
+          42.363871
+        ],
+        [
+          -71.055547,
+          42.352175
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lewis Wharf at Atlantic Ave",
+      "endStation": "South Station - 700 Atlantic Ave",
+      "tripDuration": 457
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055547,
+          42.352175
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South Station - 700 Atlantic Ave",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 675
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0920526,
+          42.3619622
+        ],
+        [
+          -71.076472,
+          42.366981
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Stata Center at Vassar St / Main St",
+      "endStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "tripDuration": 611
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076472,
+          42.366981
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 1064
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.082578,
+          42.345959
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Prudential Center - Belvedere St",
+      "tripDuration": 517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.082578,
+          42.345959
+        ],
+        [
+          -71.0740408301,
+          42.3385146018
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Prudential Center - Belvedere St",
+      "endStation": "Washington St at Rutland St",
+      "tripDuration": 411
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0740408301,
+          42.3385146018
+        ],
+        [
+          -71.03764,
+          42.3481
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Washington St at Rutland St",
+      "endStation": "Congress St at Northern Ave",
+      "tripDuration": 1043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.03764,
+          42.3481
+        ],
+        [
+          -71.057452,
+          42.360613
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Congress St at Northern Ave",
+      "endStation": "Congress St at North St",
+      "tripDuration": 1043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.057452,
+          42.360613
+        ],
+        [
+          -71.056067,
+          42.362811
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Congress St at North St",
+      "endStation": "Cross St at Hanover St",
+      "tripDuration": 1338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.056067,
+          42.362811
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cross St at Hanover St",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.060292,
+          42.371848
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Warren St at Chelsea St",
+      "tripDuration": 517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.060292,
+          42.371848
+        ],
+        [
+          -71.076472,
+          42.366981
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Warren St at Chelsea St",
+      "endStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "tripDuration": 417
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076472,
+          42.366981
+        ],
+        [
+          -71.111075,
+          42.373379
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "endStation": "Cambridge Main Library at Broadway / Trowbridge St",
+      "tripDuration": 1008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.111075,
+          42.373379
+        ],
+        [
+          -71.1031,
+          42.36507
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cambridge Main Library at Broadway / Trowbridge St",
+      "endStation": "Central Square at Mass Ave / Essex St",
+      "tripDuration": 419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1031,
+          42.36507
+        ],
+        [
+          -71.0920526,
+          42.3619622
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Square at Mass Ave / Essex St",
+      "endStation": "MIT Stata Center at Vassar St / Main St",
+      "tripDuration": 386
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0920526,
+          42.3619622
+        ],
+        [
+          -71.1130535603,
+          42.37250865
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Stata Center at Vassar St / Main St",
+      "endStation": "Verizon Innovation Hub 10 Ware Street",
+      "tripDuration": 644
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1130535603,
+          42.37250865
+        ],
+        [
+          -71.118579,
+          42.373268
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Verizon Innovation Hub 10 Ware Street",
+      "endStation": "Harvard Square at Mass Ave/ Dunster",
+      "tripDuration": 173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.118579,
+          42.373268
+        ],
+        [
+          -71.119084,
+          42.387995
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard Square at Mass Ave/ Dunster",
+      "endStation": "Porter Square Station",
+      "tripDuration": 465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.119084,
+          42.387995
+        ],
+        [
+          -71.132788,
+          42.388966
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Porter Square Station",
+      "endStation": "Danehy Park",
+      "tripDuration": 416
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.132788,
+          42.388966
+        ],
+        [
+          -71.0773265362,
+          42.3497670101
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Danehy Park",
+      "endStation": "Copley Square - Dartmouth St at Boylston St",
+      "tripDuration": 1743
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0773265362,
+          42.3497670101
+        ],
+        [
+          -71.107593,
+          42.383405
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Copley Square - Dartmouth St at Boylston St",
+      "endStation": "Conway Park - Somerville Avenue",
+      "tripDuration": 1058
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.107593,
+          42.383405
+        ],
+        [
+          -71.0978534818,
+          42.3446808404
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Conway Park - Somerville Avenue",
+      "endStation": "Yawkey Way at Boylston St.",
+      "tripDuration": 1607
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0978534818,
+          42.3446808404
+        ],
+        [
+          -71.102861166,
+          42.3374174846
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Yawkey Way at Boylston St.",
+      "endStation": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+      "tripDuration": 1871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.102861166,
+          42.3374174846
+        ],
+        [
+          -71.0858237743,
+          42.3436658245
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+      "endStation": "Christian Science Plaza - Massachusetts Ave at Westland Ave",
+      "tripDuration": 940
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0858237743,
+          42.3436658245
+        ],
+        [
+          -71.113871634,
+          42.3572185032
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Christian Science Plaza - Massachusetts Ave at Westland Ave",
+      "endStation": "Lower Cambridgeport at Magazine St/Riverside Rd",
+      "tripDuration": 1428
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.113871634,
+          42.3572185032
+        ],
+        [
+          -71.1222696304,
+          42.3719916541
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lower Cambridgeport at Magazine St/Riverside Rd",
+      "endStation": "Harvard Kennedy School at Bennett St / Eliot St",
+      "tripDuration": 929
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1222696304,
+          42.3719916541
+        ],
+        [
+          -71.119084,
+          42.387995
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard Kennedy School at Bennett St / Eliot St",
+      "endStation": "Porter Square Station",
+      "tripDuration": 734
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.119084,
+          42.387995
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Porter Square Station",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 960
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.085954,
+          42.348717
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Newbury St at Hereford St",
+      "tripDuration": 478
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.085954,
+          42.348717
+        ],
+        [
+          -71.0709281266,
+          42.3607144484
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Newbury St at Hereford St",
+      "endStation": "Charles Circle - Charles St at Cambridge St",
+      "tripDuration": 901
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0709281266,
+          42.3607144484
+        ],
+        [
+          -71.1016970873,
+          42.3451942894
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Charles Circle - Charles St at Cambridge St",
+      "endStation": "Landmark Center - Brookline Ave at Park Dr",
+      "tripDuration": 1182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1016970873,
+          42.3451942894
+        ],
+        [
+          -71.105301,
+          42.347241
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Landmark Center - Brookline Ave at Park Dr",
+      "endStation": "Park Dr at Buswell St",
+      "tripDuration": 257
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.105301,
+          42.347241
+        ],
+        [
+          -71.097009,
+          42.348706
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Park Dr at Buswell St",
+      "endStation": "Kenmore Square",
+      "tripDuration": 271
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.097009,
+          42.348706
+        ],
+        [
+          -71.0849547386,
+          42.3624278429
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kenmore Square",
+      "endStation": "Kendall T",
+      "tripDuration": 593
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0849547386,
+          42.3624278429
+        ],
+        [
+          -71.062679,
+          42.352409
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kendall T",
+      "endStation": "Boylston St at Washington St",
+      "tripDuration": 1138
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.062679,
+          42.352409
+        ],
+        [
+          -71.082578,
+          42.345959
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Washington St",
+      "endStation": "Prudential Center - Belvedere St",
+      "tripDuration": 421
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.082578,
+          42.345959
+        ],
+        [
+          -71.0813884791,
+          42.3405426155
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Prudential Center - Belvedere St",
+      "endStation": "Columbus Ave at Massachusetts Ave",
+      "tripDuration": 301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0813884791,
+          42.3405426155
+        ],
+        [
+          -71.0582560301,
+          42.3553015611
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Columbus Ave at Massachusetts Ave",
+      "endStation": "Arch St at Franklin St",
+      "tripDuration": 1173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0582560301,
+          42.3553015611
+        ],
+        [
+          -71.082383,
+          42.348762
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Arch St at Franklin St",
+      "endStation": "Boylston St at Fairfield St",
+      "tripDuration": 1424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.082383,
+          42.348762
+        ],
+        [
+          -71.0849547386,
+          42.3624278429
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Fairfield St",
+      "endStation": "Kendall T",
+      "tripDuration": 703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0849547386,
+          42.3624278429
+        ],
+        [
+          -71.1000609398,
+          42.3626477912
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kendall T",
+      "endStation": "University Park",
+      "tripDuration": 585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1000609398,
+          42.3626477912
+        ],
+        [
+          -71.118579,
+          42.373268
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "University Park",
+      "endStation": "Harvard Square at Mass Ave/ Dunster",
+      "tripDuration": 770
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.118579,
+          42.373268
+        ],
+        [
+          -71.1005759239,
+          42.3494959951
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard Square at Mass Ave/ Dunster",
+      "endStation": "Silber Way",
+      "tripDuration": 1567
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1005759239,
+          42.3494959951
+        ],
+        [
+          -71.123831,
+          42.352261
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Silber Way",
+      "endStation": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+      "tripDuration": 412
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123831,
+          42.352261
+        ],
+        [
+          -71.1016970873,
+          42.3451942894
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+      "endStation": "Landmark Center - Brookline Ave at Park Dr",
+      "tripDuration": 796
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1016970873,
+          42.3451942894
+        ],
+        [
+          -71.115639,
+          42.351246
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Landmark Center - Brookline Ave at Park Dr",
+      "endStation": "Commonwealth Ave at Buick St",
+      "tripDuration": 598
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.115639,
+          42.351246
+        ],
+        [
+          -71.115639,
+          42.351246
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave at Buick St",
+      "endStation": "Commonwealth Ave at Buick St",
+      "tripDuration": 1920
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.115639,
+          42.351246
+        ],
+        [
+          -71.0790377855,
+          42.3350989929
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave at Buick St",
+      "endStation": "Washington St at Lenox St",
+      "tripDuration": 1110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0790377855,
+          42.3350989929
+        ],
+        [
+          -71.1005759239,
+          42.3494959951
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Washington St at Lenox St",
+      "endStation": "Silber Way",
+      "tripDuration": 680
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1005759239,
+          42.3494959951
+        ],
+        [
+          -71.0920526,
+          42.3619622
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Silber Way",
+      "endStation": "MIT Stata Center at Vassar St / Main St",
+      "tripDuration": 713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0920526,
+          42.3619622
+        ],
+        [
+          -71.1222696304,
+          42.3719916541
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Stata Center at Vassar St / Main St",
+      "endStation": "Harvard Kennedy School at Bennett St / Eliot St",
+      "tripDuration": 1804
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1222696304,
+          42.3719916541
+        ],
+        [
+          -71.097009,
+          42.348706
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard Kennedy School at Bennett St / Eliot St",
+      "endStation": "Kenmore Square",
+      "tripDuration": 1458
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.097009,
+          42.348706
+        ],
+        [
+          -71.082383,
+          42.348762
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kenmore Square",
+      "endStation": "Boylston St at Fairfield St",
+      "tripDuration": 591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.082383,
+          42.348762
+        ],
+        [
+          -71.050877,
+          42.363871
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Fairfield St",
+      "endStation": "Lewis Wharf at Atlantic Ave",
+      "tripDuration": 753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.050877,
+          42.363871
+        ],
+        [
+          -71.023739,
+          42.336448
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lewis Wharf at Atlantic Ave",
+      "endStation": "Murphy Skating Rink - 1880 Day Blvd",
+      "tripDuration": 1350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.023739,
+          42.336448
+        ],
+        [
+          -71.023739,
+          42.336448
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Murphy Skating Rink - 1880 Day Blvd",
+      "endStation": "Murphy Skating Rink - 1880 Day Blvd",
+      "tripDuration": 1435
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.023739,
+          42.336448
+        ],
+        [
+          -71.0514298081,
+          42.3599117611
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Murphy Skating Rink - 1880 Day Blvd",
+      "endStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "tripDuration": 1467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0514298081,
+          42.3599117611
+        ],
+        [
+          -71.0438847542,
+          42.3529408024
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "endStation": "Fan Pier",
+      "tripDuration": 425
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0438847542,
+          42.3529408024
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Fan Pier",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 706
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.097009,
+          42.348706
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Kenmore Square",
+      "tripDuration": 929
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.097009,
+          42.348706
+        ],
+        [
+          -71.1171412468,
+          42.3691903177
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kenmore Square",
+      "endStation": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+      "tripDuration": 1422
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1171412468,
+          42.3691903177
+        ],
+        [
+          -71.125107,
+          42.380287
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+      "endStation": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+      "tripDuration": 796
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.125107,
+          42.380287
+        ],
+        [
+          -71.1339466274,
+          42.3485201458
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+      "endStation": "Allston Green District - Griggs St at Commonwealth Ave",
+      "tripDuration": 1318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1339466274,
+          42.3485201458
+        ],
+        [
+          -71.114214,
+          42.366621
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Allston Green District - Griggs St at Commonwealth Ave",
+      "endStation": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+      "tripDuration": 1088
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.114214,
+          42.366621
+        ],
+        [
+          -71.084105,
+          42.362613
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+      "endStation": "One Broadway / Kendall Sq at Main St / 3rd St",
+      "tripDuration": 831
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.084105,
+          42.362613
+        ],
+        [
+          -71.1031,
+          42.36507
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "One Broadway / Kendall Sq at Main St / 3rd St",
+      "endStation": "Central Square at Mass Ave / Essex St",
+      "tripDuration": 540
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1031,
+          42.36507
+        ],
+        [
+          -71.123831,
+          42.352261
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Square at Mass Ave / Essex St",
+      "endStation": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+      "tripDuration": 1090
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123831,
+          42.352261
+        ],
+        [
+          -71.097009,
+          42.348706
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+      "endStation": "Kenmore Square",
+      "tripDuration": 729
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.097009,
+          42.348706
+        ],
+        [
+          -71.0962709785,
+          42.337586011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kenmore Square",
+      "endStation": "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+      "tripDuration": 970
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0962709785,
+          42.337586011
+        ],
+        [
+          -71.1005732417,
+          42.363464693
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+      "endStation": "Lafayette Square at Mass Ave / Main St / Columbia St",
+      "tripDuration": 971
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1005732417,
+          42.363464693
+        ],
+        [
+          -71.08822,
+          42.3625
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lafayette Square at Mass Ave / Main St / Columbia St",
+      "endStation": "Ames St at Main St",
+      "tripDuration": 280
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.08822,
+          42.3625
+        ],
+        [
+          -71.1012947559,
+          42.3595732011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Ames St at Main St",
+      "endStation": "MIT Pacific St at Purrington St",
+      "tripDuration": 234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1012947559,
+          42.3595732011
+        ],
+        [
+          -71.050877,
+          42.363871
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Pacific St at Purrington St",
+      "endStation": "Lewis Wharf at Atlantic Ave",
+      "tripDuration": 1719
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.050877,
+          42.363871
+        ],
+        [
+          -71.070627,
+          42.352033
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lewis Wharf at Atlantic Ave",
+      "endStation": "Boylston St at Arlington St",
+      "tripDuration": 660
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.070627,
+          42.352033
+        ],
+        [
+          -71.0570168495,
+          42.3304736504
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Arlington St",
+      "endStation": "Andrew T Stop - Dorchester Ave at Dexter St",
+      "tripDuration": 566
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0570168495,
+          42.3304736504
+        ],
+        [
+          -71.0582560301,
+          42.3553015611
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Andrew T Stop - Dorchester Ave at Dexter St",
+      "endStation": "Arch St at Franklin St",
+      "tripDuration": 704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.088088,
+          42.347265
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Boylston St at Massachusetts Ave",
+      "tripDuration": 871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.088088,
+          42.347265
+        ],
+        [
+          -71.055407,
+          42.356755
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Massachusetts Ave",
+      "endStation": "Post Office Square - Pearl St at Milk St",
+      "tripDuration": 789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055407,
+          42.356755
+        ],
+        [
+          -71.0493001342,
+          42.3510044959
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Post Office Square - Pearl St at Milk St",
+      "endStation": "Congress St at Sleeper St",
+      "tripDuration": 326
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0493001342,
+          42.3510044959
+        ],
+        [
+          -71.0514298081,
+          42.3599117611
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Congress St at Sleeper St",
+      "endStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "tripDuration": 252
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0514298081,
+          42.3599117611
+        ],
+        [
+          -71.055547,
+          42.352175
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "endStation": "South Station - 700 Atlantic Ave",
+      "tripDuration": 344
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055547,
+          42.352175
+        ],
+        [
+          -71.066289,
+          42.351146
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South Station - 700 Atlantic Ave",
+      "endStation": "Stuart St at Charles St",
+      "tripDuration": 271
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.066289,
+          42.351146
+        ],
+        [
+          -71.1080995202,
+          42.3617804396
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Stuart St at Charles St",
+      "endStation": "Dana Park",
+      "tripDuration": 1205
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1080995202,
+          42.3617804396
+        ],
+        [
+          -71.119233,
+          42.365064
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Dana Park",
+      "endStation": "Soldiers Field Park - 111 Western Ave",
+      "tripDuration": 298
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.119233,
+          42.365064
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Soldiers Field Park - 111 Western Ave",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 1335
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.053181,
+          42.354659
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "Purchase St at Pearl St",
+      "tripDuration": 884
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.053181,
+          42.354659
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Purchase St at Pearl St",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 1679
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.097009,
+          42.348706
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Kenmore Square",
+      "tripDuration": 1430
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.097009,
+          42.348706
+        ],
+        [
+          -71.1222696304,
+          42.3719916541
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kenmore Square",
+      "endStation": "Harvard Kennedy School at Bennett St / Eliot St",
+      "tripDuration": 1043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1222696304,
+          42.3719916541
+        ],
+        [
+          -71.1377620697,
+          42.3615457082
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard Kennedy School at Bennett St / Eliot St",
+      "endStation": "Brighton Mills - 370 Western Ave",
+      "tripDuration": 504
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1377620697,
+          42.3615457082
+        ],
+        [
+          -71.114025,
+          42.376369
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Brighton Mills - 370 Western Ave",
+      "endStation": "Harvard University Gund Hall at Quincy St / Kirkland S",
+      "tripDuration": 937
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.114025,
+          42.376369
+        ],
+        [
+          -71.105668,
+          42.37842
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University Gund Hall at Quincy St / Kirkland S",
+      "endStation": "Beacon St at Washington / Kirkland",
+      "tripDuration": 218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.105668,
+          42.37842
+        ],
+        [
+          -71.1012947559,
+          42.3595732011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Washington / Kirkland",
+      "endStation": "MIT Pacific St at Purrington St",
+      "tripDuration": 615
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1012947559,
+          42.3595732011
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Pacific St at Purrington St",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 543
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.1031,
+          42.36507
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "Central Square at Mass Ave / Essex St",
+      "tripDuration": 647
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1031,
+          42.36507
+        ],
+        [
+          -71.1012947559,
+          42.3595732011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Square at Mass Ave / Essex St",
+      "endStation": "MIT Pacific St at Purrington St",
+      "tripDuration": 217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1012947559,
+          42.3595732011
+        ],
+        [
+          -71.1039447784,
+          42.3556012133
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Pacific St at Purrington St",
+      "endStation": "MIT Vassar St",
+      "tripDuration": 263
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1039447784,
+          42.3556012133
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Vassar St",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.1031,
+          42.36507
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Central Square at Mass Ave / Essex St",
+      "tripDuration": 548
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1031,
+          42.36507
+        ],
+        [
+          -71.1012947559,
+          42.3595732011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Square at Mass Ave / Essex St",
+      "endStation": "MIT Pacific St at Purrington St",
+      "tripDuration": 329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1012947559,
+          42.3595732011
+        ],
+        [
+          -71.0765701532,
+          42.3480741232
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Pacific St at Purrington St",
+      "endStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "tripDuration": 957
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0765701532,
+          42.3480741232
+        ],
+        [
+          -71.0709281266,
+          42.3607144484
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "endStation": "Charles Circle - Charles St at Cambridge St",
+      "tripDuration": 664
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0709281266,
+          42.3607144484
+        ],
+        [
+          -71.085954,
+          42.348717
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Charles Circle - Charles St at Cambridge St",
+      "endStation": "Newbury St at Hereford St",
+      "tripDuration": 698
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.085954,
+          42.348717
+        ],
+        [
+          -71.11543,
+          42.309054
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Newbury St at Hereford St",
+      "endStation": "Curtis Hall - South St at Centre St",
+      "tripDuration": 1909
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.11543,
+          42.309054
+        ],
+        [
+          -71.085347,
+          42.303469
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Curtis Hall - South St at Centre St",
+      "endStation": "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave",
+      "tripDuration": 1375
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.085347,
+          42.303469
+        ],
+        [
+          -71.091260612,
+          42.3214381418
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave",
+      "endStation": "MLK Blvd at Washington St",
+      "tripDuration": 1424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.091260612,
+          42.3214381418
+        ],
+        [
+          -71.073089,
+          42.336437
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MLK Blvd at Washington St",
+      "endStation": "Boston Medical Center - E Concord St at Harrison Ave",
+      "tripDuration": 701
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.073089,
+          42.336437
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boston Medical Center - E Concord St at Harrison Ave",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 1087
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.057452,
+          42.360613
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "Congress St at North St",
+      "tripDuration": 16005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.057452,
+          42.360613
+        ],
+        [
+          -71.065209657,
+          42.3613040701
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Congress St at North St",
+      "endStation": "Cambridge St at Joy St",
+      "tripDuration": 387
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.065209657,
+          42.3613040701
+        ],
+        [
+          -71.059367,
+          42.351356
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cambridge St at Joy St",
+      "endStation": "Chinatown Gate Plaza",
+      "tripDuration": 789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.059367,
+          42.351356
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Chinatown Gate Plaza",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.053181,
+          42.354659
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "Purchase St at Pearl St",
+      "tripDuration": 625
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.053181,
+          42.354659
+        ],
+        [
+          -71.07655,
+          42.350413
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Purchase St at Pearl St",
+      "endStation": "Boylston St at Dartmouth St",
+      "tripDuration": 568
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.060292,
+          42.371848
+        ],
+        [
+          -71.069957,
+          42.369885
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Warren St at Chelsea St",
+      "endStation": "EF - North Point Park",
+      "tripDuration": 223
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.069957,
+          42.369885
+        ],
+        [
+          -71.082383,
+          42.348762
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "EF - North Point Park",
+      "endStation": "Boylston St at Fairfield St",
+      "tripDuration": 1044
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.082383,
+          42.348762
+        ],
+        [
+          -71.097009,
+          42.348706
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Fairfield St",
+      "endStation": "Kenmore Square",
+      "tripDuration": 585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.097009,
+          42.348706
+        ],
+        [
+          -71.059367,
+          42.351356
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kenmore Square",
+      "endStation": "Chinatown Gate Plaza",
+      "tripDuration": 1608
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.059367,
+          42.351356
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Chinatown Gate Plaza",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 427
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.1212624609,
+          42.3515473479
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "Commonwealth Ave At Babcock St",
+      "tripDuration": 970
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1212624609,
+          42.3515473479
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave At Babcock St",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 1387
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.07655,
+          42.350413
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Boylston St at Dartmouth St",
+      "tripDuration": 863
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.07655,
+          42.350413
+        ],
+        [
+          -71.073089,
+          42.336437
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Dartmouth St",
+      "endStation": "Boston Medical Center - E Concord St at Harrison Ave",
+      "tripDuration": 866
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.073089,
+          42.336437
+        ],
+        [
+          -71.0732924938,
+          42.3511419825
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boston Medical Center - E Concord St at Harrison Ave",
+      "endStation": "Boylston St at Berkeley St",
+      "tripDuration": 661
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0732924938,
+          42.3511419825
+        ],
+        [
+          -71.0773265362,
+          42.3497670101
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Berkeley St",
+      "endStation": "Copley Square - Dartmouth St at Boylston St",
+      "tripDuration": 426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0962709785,
+          42.337586011
+        ],
+        [
+          -71.090179,
+          42.341814
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+      "endStation": "Northeastern University - North Parking Lot",
+      "tripDuration": 361
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.090179,
+          42.341814
+        ],
+        [
+          -71.1040791777,
+          42.3346289306
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Northeastern University - North Parking Lot",
+      "endStation": "Brigham Circle - Francis St at Huntington Ave",
+      "tripDuration": 666
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1040791777,
+          42.3346289306
+        ],
+        [
+          -71.09169,
+          42.366277
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Brigham Circle - Francis St at Huntington Ave",
+      "endStation": "One Kendall Square at Hampshire St / Portland St",
+      "tripDuration": 1276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.09169,
+          42.366277
+        ],
+        [
+          -71.118579,
+          42.373268
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "One Kendall Square at Hampshire St / Portland St",
+      "endStation": "Harvard Square at Mass Ave/ Dunster",
+      "tripDuration": 902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.118579,
+          42.373268
+        ],
+        [
+          -71.111075,
+          42.373379
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard Square at Mass Ave/ Dunster",
+      "endStation": "Cambridge Main Library at Broadway / Trowbridge St",
+      "tripDuration": 297
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.111075,
+          42.373379
+        ],
+        [
+          -71.119084,
+          42.387995
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cambridge Main Library at Broadway / Trowbridge St",
+      "endStation": "Porter Square Station",
+      "tripDuration": 493
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.119084,
+          42.387995
+        ],
+        [
+          -71.086388,
+          42.366095
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Porter Square Station",
+      "endStation": "Binney St / Sixth St",
+      "tripDuration": 1315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.086388,
+          42.366095
+        ],
+        [
+          -71.100694,
+          42.345733
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Binney St / Sixth St",
+      "endStation": "Burlington Ave at Brookline Ave",
+      "tripDuration": 792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.100694,
+          42.345733
+        ],
+        [
+          -71.100694,
+          42.345733
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Burlington Ave at Brookline Ave",
+      "endStation": "Burlington Ave at Brookline Ave",
+      "tripDuration": 2919
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.100694,
+          42.345733
+        ],
+        [
+          -71.100694,
+          42.345733
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Burlington Ave at Brookline Ave",
+      "endStation": "Burlington Ave at Brookline Ave",
+      "tripDuration": 3131
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.100694,
+          42.345733
+        ],
+        [
+          -71.102861166,
+          42.3374174846
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Burlington Ave at Brookline Ave",
+      "endStation": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+      "tripDuration": 529
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.102861166,
+          42.3374174846
+        ],
+        [
+          -71.090179,
+          42.341814
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+      "endStation": "Northeastern University - North Parking Lot",
+      "tripDuration": 384
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.090179,
+          42.341814
+        ],
+        [
+          -71.1016970873,
+          42.3451942894
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Northeastern University - North Parking Lot",
+      "endStation": "Landmark Center - Brookline Ave at Park Dr",
+      "tripDuration": 382
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1016970873,
+          42.3451942894
+        ],
+        [
+          -71.0962709785,
+          42.337586011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Landmark Center - Brookline Ave at Park Dr",
+      "endStation": "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+      "tripDuration": 386
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0962709785,
+          42.337586011
+        ],
+        [
+          -71.0765701532,
+          42.3480741232
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+      "endStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "tripDuration": 1138
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0765701532,
+          42.3480741232
+        ],
+        [
+          -71.055547,
+          42.352175
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "endStation": "South Station - 700 Atlantic Ave",
+      "tripDuration": 2809
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055547,
+          42.352175
+        ],
+        [
+          -71.0790377855,
+          42.3350989929
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South Station - 700 Atlantic Ave",
+      "endStation": "Washington St at Lenox St",
+      "tripDuration": 636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0790377855,
+          42.3350989929
+        ],
+        [
+          -71.055547,
+          42.352175
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Washington St at Lenox St",
+      "endStation": "South Station - 700 Atlantic Ave",
+      "tripDuration": 721
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055547,
+          42.352175
+        ],
+        [
+          -71.055547,
+          42.352175
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South Station - 700 Atlantic Ave",
+      "endStation": "South Station - 700 Atlantic Ave",
+      "tripDuration": 2931
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055547,
+          42.352175
+        ],
+        [
+          -71.0443608463,
+          42.3514819346
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South Station - 700 Atlantic Ave",
+      "endStation": "Seaport Square - Seaport Blvd at Northern Ave",
+      "tripDuration": 427
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0443608463,
+          42.3514819346
+        ],
+        [
+          -71.052608,
+          42.344137
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Seaport Square - Seaport Blvd at Northern Ave",
+      "endStation": "State Street at Channel Center",
+      "tripDuration": 636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.052608,
+          42.344137
+        ],
+        [
+          -71.0493001342,
+          42.3510044959
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "State Street at Channel Center",
+      "endStation": "Congress St at Sleeper St",
+      "tripDuration": 294
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0493001342,
+          42.3510044959
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Congress St at Sleeper St",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 912
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.048927,
+          42.378338
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Spaulding Rehabilitation Hospital - Charlestown Navy Yard",
+      "tripDuration": 772
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.048927,
+          42.378338
+        ],
+        [
+          -71.065209657,
+          42.3613040701
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Spaulding Rehabilitation Hospital - Charlestown Navy Yard",
+      "endStation": "Cambridge St at Joy St",
+      "tripDuration": 952
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.065209657,
+          42.3613040701
+        ],
+        [
+          -71.0821679235,
+          42.3635601584
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cambridge St at Joy St",
+      "endStation": "Kendall Street",
+      "tripDuration": 489
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0821679235,
+          42.3635601584
+        ],
+        [
+          -71.128374,
+          42.346563
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kendall Street",
+      "endStation": "JFK Crossing at Harvard St. / Thorndike St.",
+      "tripDuration": 1508
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.128374,
+          42.346563
+        ],
+        [
+          -71.123338,
+          42.341598
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "JFK Crossing at Harvard St. / Thorndike St.",
+      "endStation": "Coolidge Corner - Beacon St @ Centre St",
+      "tripDuration": 366
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123338,
+          42.341598
+        ],
+        [
+          -71.0493001342,
+          42.3510044959
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Coolidge Corner - Beacon St @ Centre St",
+      "endStation": "Congress St at Sleeper St",
+      "tripDuration": 1277
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0493001342,
+          42.3510044959
+        ],
+        [
+          -71.055547,
+          42.352175
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Congress St at Sleeper St",
+      "endStation": "South Station - 700 Atlantic Ave",
+      "tripDuration": 190
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055547,
+          42.352175
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South Station - 700 Atlantic Ave",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 709
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.123831,
+          42.352261
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+      "tripDuration": 867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123831,
+          42.352261
+        ],
+        [
+          -71.1212624609,
+          42.3515473479
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+      "endStation": "Commonwealth Ave At Babcock St",
+      "tripDuration": 267
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1212624609,
+          42.3515473479
+        ],
+        [
+          -71.066289,
+          42.351146
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave At Babcock St",
+      "endStation": "Stuart St at Charles St",
+      "tripDuration": 1038
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.066289,
+          42.351146
+        ],
+        [
+          -71.0773265362,
+          42.3497670101
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Stuart St at Charles St",
+      "endStation": "Copley Square - Dartmouth St at Boylston St",
+      "tripDuration": 527
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0773265362,
+          42.3497670101
+        ],
+        [
+          -71.0978534818,
+          42.3446808404
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Copley Square - Dartmouth St at Boylston St",
+      "endStation": "Yawkey Way at Boylston St.",
+      "tripDuration": 859
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0978534818,
+          42.3446808404
+        ],
+        [
+          -71.0858237743,
+          42.3436658245
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Yawkey Way at Boylston St.",
+      "endStation": "Christian Science Plaza - Massachusetts Ave at Westland Ave",
+      "tripDuration": 390
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0858237743,
+          42.3436658245
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Christian Science Plaza - Massachusetts Ave at Westland Ave",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 415
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 271
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.085954,
+          42.348717
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Newbury St at Hereford St",
+      "tripDuration": 347
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.085954,
+          42.348717
+        ],
+        [
+          -71.0514298081,
+          42.3599117611
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Newbury St at Hereford St",
+      "endStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "tripDuration": 3431
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0514298081,
+          42.3599117611
+        ],
+        [
+          -71.076529,
+          42.370677
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "endStation": "Lechmere Station at Cambridge St / First St",
+      "tripDuration": 588
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076529,
+          42.370677
+        ],
+        [
+          -71.0920526,
+          42.3619622
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lechmere Station at Cambridge St / First St",
+      "endStation": "MIT Stata Center at Vassar St / Main St",
+      "tripDuration": 476
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0920526,
+          42.3619622
+        ],
+        [
+          -71.105668,
+          42.37842
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Stata Center at Vassar St / Main St",
+      "endStation": "Beacon St at Washington / Kirkland",
+      "tripDuration": 714
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.105668,
+          42.37842
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Washington / Kirkland",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 812
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 285
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.105495,
+          42.366426
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+      "tripDuration": 432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.105495,
+          42.366426
+        ],
+        [
+          -71.120886,
+          42.373231
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+      "endStation": "Harvard Square at Brattle St / Eliot St",
+      "tripDuration": 494
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.120886,
+          42.373231
+        ],
+        [
+          -71.1005732417,
+          42.363464693
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard Square at Brattle St / Eliot St",
+      "endStation": "Lafayette Square at Mass Ave / Main St / Columbia St",
+      "tripDuration": 1642
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1005732417,
+          42.363464693
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lafayette Square at Mass Ave / Main St / Columbia St",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.076529,
+          42.370677
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Lechmere Station at Cambridge St / First St",
+      "tripDuration": 844
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076529,
+          42.370677
+        ],
+        [
+          -71.09169,
+          42.366277
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lechmere Station at Cambridge St / First St",
+      "endStation": "One Kendall Square at Hampshire St / Portland St",
+      "tripDuration": 486
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.09169,
+          42.366277
+        ],
+        [
+          -71.114214,
+          42.366621
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "One Kendall Square at Hampshire St / Portland St",
+      "endStation": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+      "tripDuration": 902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.114214,
+          42.366621
+        ],
+        [
+          -71.1065,
+          42.338629
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+      "endStation": "Longwood Ave at Binney St",
+      "tripDuration": 1139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1065,
+          42.338629
+        ],
+        [
+          -71.137313,
+          42.353334
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Longwood Ave at Binney St",
+      "endStation": "Union Square - Brighton Ave at Cambridge St",
+      "tripDuration": 874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.137313,
+          42.353334
+        ],
+        [
+          -71.1171412468,
+          42.3691903177
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Union Square - Brighton Ave at Cambridge St",
+      "endStation": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+      "tripDuration": 716
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1171412468,
+          42.3691903177
+        ],
+        [
+          -71.108279,
+          42.350406
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+      "endStation": "B.U. Central - 725 Comm. Ave.",
+      "tripDuration": 795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.108279,
+          42.350406
+        ],
+        [
+          -71.108279,
+          42.350406
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "B.U. Central - 725 Comm. Ave.",
+      "endStation": "B.U. Central - 725 Comm. Ave.",
+      "tripDuration": 75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.108279,
+          42.350406
+        ],
+        [
+          -71.08822,
+          42.3625
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "B.U. Central - 725 Comm. Ave.",
+      "endStation": "Ames St at Main St",
+      "tripDuration": 2488
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.08822,
+          42.3625
+        ],
+        [
+          -71.115639,
+          42.351246
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Ames St at Main St",
+      "endStation": "Commonwealth Ave at Buick St",
+      "tripDuration": 861
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.115639,
+          42.351246
+        ],
+        [
+          -71.108279,
+          42.350406
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave at Buick St",
+      "endStation": "B.U. Central - 725 Comm. Ave.",
+      "tripDuration": 142
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.108279,
+          42.350406
+        ],
+        [
+          -71.113871634,
+          42.3572185032
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "B.U. Central - 725 Comm. Ave.",
+      "endStation": "Lower Cambridgeport at Magazine St/Riverside Rd",
+      "tripDuration": 204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.113871634,
+          42.3572185032
+        ],
+        [
+          -71.115639,
+          42.351246
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lower Cambridgeport at Magazine St/Riverside Rd",
+      "endStation": "Commonwealth Ave at Buick St",
+      "tripDuration": 524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.115639,
+          42.351246
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave at Buick St",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 445
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.1039447784,
+          42.3556012133
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "MIT Vassar St",
+      "tripDuration": 417
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1039447784,
+          42.3556012133
+        ],
+        [
+          -71.085954,
+          42.348717
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Vassar St",
+      "endStation": "Newbury St at Hereford St",
+      "tripDuration": 727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.085954,
+          42.348717
+        ],
+        [
+          -71.062679,
+          42.352409
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Newbury St at Hereford St",
+      "endStation": "Boylston St at Washington St",
+      "tripDuration": 565
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.062679,
+          42.352409
+        ],
+        [
+          -71.031614,
+          42.344796
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Washington St",
+      "endStation": "ID Building West",
+      "tripDuration": 760
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.031614,
+          42.344796
+        ],
+        [
+          -71.0456925631,
+          42.3515860012
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "ID Building West",
+      "endStation": "Watermark Seaport - Boston Wharf Rd at Seaport Blvd",
+      "tripDuration": 742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0456925631,
+          42.3515860012
+        ],
+        [
+          -71.050699,
+          42.357143
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Watermark Seaport - Boston Wharf Rd at Seaport Blvd",
+      "endStation": "Rowes Wharf at Atlantic Ave",
+      "tripDuration": 224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.050699,
+          42.357143
+        ],
+        [
+          -71.056067,
+          42.362811
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Rowes Wharf at Atlantic Ave",
+      "endStation": "Cross St at Hanover St",
+      "tripDuration": 206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.056067,
+          42.362811
+        ],
+        [
+          -71.166491,
+          42.35057
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cross St at Hanover St",
+      "endStation": "Oak Square - 615 Washington St",
+      "tripDuration": 5515
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.166491,
+          42.35057
+        ],
+        [
+          -71.108279,
+          42.350406
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Oak Square - 615 Washington St",
+      "endStation": "B.U. Central - 725 Comm. Ave.",
+      "tripDuration": 1292
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.108279,
+          42.350406
+        ],
+        [
+          -71.113871634,
+          42.3572185032
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "B.U. Central - 725 Comm. Ave.",
+      "endStation": "Lower Cambridgeport at Magazine St/Riverside Rd",
+      "tripDuration": 426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.113871634,
+          42.3572185032
+        ],
+        [
+          -71.1212624609,
+          42.3515473479
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lower Cambridgeport at Magazine St/Riverside Rd",
+      "endStation": "Commonwealth Ave At Babcock St",
+      "tripDuration": 480
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1212624609,
+          42.3515473479
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave At Babcock St",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 920
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.055547,
+          42.352175
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "South Station - 700 Atlantic Ave",
+      "tripDuration": 463
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055547,
+          42.352175
+        ],
+        [
+          -71.0765701532,
+          42.3480741232
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South Station - 700 Atlantic Ave",
+      "endStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "tripDuration": 441
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0765701532,
+          42.3480741232
+        ],
+        [
+          -71.076472,
+          42.366981
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "endStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "tripDuration": 1062
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076472,
+          42.366981
+        ],
+        [
+          -71.0849547386,
+          42.3624278429
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+      "endStation": "Kendall T",
+      "tripDuration": 451
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0849547386,
+          42.3624278429
+        ],
+        [
+          -71.1012947559,
+          42.3595732011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kendall T",
+      "endStation": "MIT Pacific St at Purrington St",
+      "tripDuration": 413
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1012947559,
+          42.3595732011
+        ],
+        [
+          -71.1039447784,
+          42.3556012133
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Pacific St at Purrington St",
+      "endStation": "MIT Vassar St",
+      "tripDuration": 244
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1039447784,
+          42.3556012133
+        ],
+        [
+          -71.1031,
+          42.36507
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Vassar St",
+      "endStation": "Central Square at Mass Ave / Essex St",
+      "tripDuration": 313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1031,
+          42.36507
+        ],
+        [
+          -71.115639,
+          42.351246
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Central Square at Mass Ave / Essex St",
+      "endStation": "Commonwealth Ave at Buick St",
+      "tripDuration": 713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.115639,
+          42.351246
+        ],
+        [
+          -71.0514298081,
+          42.3599117611
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave at Buick St",
+      "endStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "tripDuration": 2542
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0514298081,
+          42.3599117611
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 1003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.115639,
+          42.351246
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "Commonwealth Ave at Buick St",
+      "tripDuration": 1154
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.115639,
+          42.351246
+        ],
+        [
+          -71.1039447784,
+          42.3556012133
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Commonwealth Ave at Buick St",
+      "endStation": "MIT Vassar St",
+      "tripDuration": 1874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1039447784,
+          42.3556012133
+        ],
+        [
+          -71.0920526,
+          42.3619622
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Vassar St",
+      "endStation": "MIT Stata Center at Vassar St / Main St",
+      "tripDuration": 297
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.076847,
+          42.341332
+        ],
+        [
+          -71.0740408301,
+          42.3385146018
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "South End Library - Tremont St at W Newton St",
+      "endStation": "Washington St at Rutland St",
+      "tripDuration": 207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0740408301,
+          42.3385146018
+        ],
+        [
+          -71.0514298081,
+          42.3599117611
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Washington St at Rutland St",
+      "endStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "tripDuration": 1151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0514298081,
+          42.3599117611
+        ],
+        [
+          -71.0493001342,
+          42.3510044959
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Aquarium T Stop - 200 Atlantic Ave",
+      "endStation": "Congress St at Sleeper St",
+      "tripDuration": 289
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0493001342,
+          42.3510044959
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Congress St at Sleeper St",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 534
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 3493
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.129164,
+          42.363796
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "175 N Harvard St",
+      "tripDuration": 1159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.129164,
+          42.363796
+        ],
+        [
+          -71.116772,
+          42.400877
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "175 N Harvard St",
+      "endStation": "Powder House Circle - Nathan Tufts Park",
+      "tripDuration": 1374
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.116772,
+          42.400877
+        ],
+        [
+          -71.123024,
+          42.396969
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Powder House Circle - Nathan Tufts Park",
+      "endStation": "Davis Square",
+      "tripDuration": 628
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123024,
+          42.396969
+        ],
+        [
+          -71.126908,
+          42.402763
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Davis Square",
+      "endStation": "Teele Square at 239 Holland St",
+      "tripDuration": 177
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.126908,
+          42.402763
+        ],
+        [
+          -71.123024,
+          42.396969
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Teele Square at 239 Holland St",
+      "endStation": "Davis Square",
+      "tripDuration": 160
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123024,
+          42.396969
+        ],
+        [
+          -71.132446,
+          42.406302
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Davis Square",
+      "endStation": "Clarendon Hill at Broadway",
+      "tripDuration": 350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.132446,
+          42.406302
+        ],
+        [
+          -71.123024,
+          42.396969
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Clarendon Hill at Broadway",
+      "endStation": "Davis Square",
+      "tripDuration": 296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123024,
+          42.396969
+        ],
+        [
+          -71.130516,
+          42.397828
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Davis Square",
+      "endStation": "Linear Park - Mass. Ave. at Cameron Ave. ",
+      "tripDuration": 175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.130516,
+          42.397828
+        ],
+        [
+          -71.123024,
+          42.396969
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Linear Park - Mass. Ave. at Cameron Ave. ",
+      "endStation": "Davis Square",
+      "tripDuration": 169
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.123024,
+          42.396969
+        ],
+        [
+          -71.130516,
+          42.397828
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Davis Square",
+      "endStation": "Linear Park - Mass. Ave. at Cameron Ave. ",
+      "tripDuration": 178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.130516,
+          42.397828
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Linear Park - Mass. Ave. at Cameron Ave. ",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 1508
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.1467354,
+          42.3573292187
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "New Balance - 20 Guest St",
+      "tripDuration": 1841
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1467354,
+          42.3573292187
+        ],
+        [
+          -71.137313,
+          42.353334
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "New Balance - 20 Guest St",
+      "endStation": "Union Square - Brighton Ave at Cambridge St",
+      "tripDuration": 343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.137313,
+          42.353334
+        ],
+        [
+          -71.116865,
+          42.377945
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Union Square - Brighton Ave at Cambridge St",
+      "endStation": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+      "tripDuration": 1057
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.116865,
+          42.377945
+        ],
+        [
+          -71.1012947559,
+          42.3595732011
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+      "endStation": "MIT Pacific St at Purrington St",
+      "tripDuration": 867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1012947559,
+          42.3595732011
+        ],
+        [
+          -71.056067,
+          42.362811
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT Pacific St at Purrington St",
+      "endStation": "Cross St at Hanover St",
+      "tripDuration": 1100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.056067,
+          42.362811
+        ],
+        [
+          -71.063348,
+          42.354979
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Cross St at Hanover St",
+      "endStation": "Tremont St at West St",
+      "tripDuration": 1135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.063348,
+          42.354979
+        ],
+        [
+          -71.057629,
+          42.35892
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Tremont St at West St",
+      "endStation": "Boston City Hall - 28 State St",
+      "tripDuration": 338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.057629,
+          42.35892
+        ],
+        [
+          -71.082578,
+          42.345959
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boston City Hall - 28 State St",
+      "endStation": "Prudential Center - Belvedere St",
+      "tripDuration": 1054
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.082578,
+          42.345959
+        ],
+        [
+          -71.0765701532,
+          42.3480741232
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Prudential Center - Belvedere St",
+      "endStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "tripDuration": 264
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0765701532,
+          42.3480741232
+        ],
+        [
+          -71.064263,
+          42.365673
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "endStation": "Nashua Street at Red Auerbach Way",
+      "tripDuration": 782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.0849547386,
+          42.3624278429
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Kendall T",
+      "tripDuration": 655
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0849547386,
+          42.3624278429
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Kendall T",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 478
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.089810878,
+          42.3508268067
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Massachusetts Ave",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 1635
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.1005732417,
+          42.363464693
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "Lafayette Square at Mass Ave / Main St / Columbia St",
+      "tripDuration": 1124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.1005732417,
+          42.363464693
+        ],
+        [
+          -71.0728418827,
+          42.3555493234
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Lafayette Square at Mass Ave / Main St / Columbia St",
+      "endStation": "Beacon St at Arlington St",
+      "tripDuration": 906
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0728418827,
+          42.3555493234
+        ],
+        [
+          -71.0456925631,
+          42.3515860012
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Beacon St at Arlington St",
+      "endStation": "Watermark Seaport - Boston Wharf Rd at Seaport Blvd",
+      "tripDuration": 577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.064263,
+          42.365673
+        ],
+        [
+          -71.0765701532,
+          42.3480741232
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Nashua Street at Red Auerbach Way",
+      "endStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "tripDuration": 824
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0765701532,
+          42.3480741232
+        ],
+        [
+          -71.073089,
+          42.336437
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "endStation": "Boston Medical Center - E Concord St at Harrison Ave",
+      "tripDuration": 712
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.073089,
+          42.336437
+        ],
+        [
+          -71.063187,
+          42.345901
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boston Medical Center - E Concord St at Harrison Ave",
+      "endStation": "Ink Block - Harrison Ave at Herald St",
+      "tripDuration": 506
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.063187,
+          42.345901
+        ],
+        [
+          -71.0443608463,
+          42.3514819346
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Ink Block - Harrison Ave at Herald St",
+      "endStation": "Seaport Square - Seaport Blvd at Northern Ave",
+      "tripDuration": 814
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0443608463,
+          42.3514819346
+        ],
+        [
+          -71.055407,
+          42.356755
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Seaport Square - Seaport Blvd at Northern Ave",
+      "endStation": "Post Office Square - Pearl St at Milk St",
+      "tripDuration": 328
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.055407,
+          42.356755
+        ],
+        [
+          -71.07655,
+          42.350413
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Post Office Square - Pearl St at Milk St",
+      "endStation": "Boylston St at Dartmouth St",
+      "tripDuration": 940
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.07655,
+          42.350413
+        ],
+        [
+          -71.0765701532,
+          42.3480741232
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Dartmouth St",
+      "endStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "tripDuration": 1782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.0765701532,
+          42.3480741232
+        ],
+        [
+          -71.088088,
+          42.347265
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Back Bay T Stop - Dartmouth St at Stuart St",
+      "endStation": "Boylston St at Massachusetts Ave",
+      "tripDuration": 404
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.088088,
+          42.347265
+        ],
+        [
+          -71.093198,
+          42.3581
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "Boylston St at Massachusetts Ave",
+      "endStation": "MIT at Mass Ave / Amherst St",
+      "tripDuration": 704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "line",
+      "coordinates": [
+        [
+          -71.093198,
+          42.3581
+        ],
+        [
+          -71.089810878,
+          42.3508268067
+        ]
+      ]
+    },
+    "properties": {
+      "startStation": "MIT at Mass Ave / Amherst St",
+      "endStation": "Beacon St at Massachusetts Ave",
+      "tripDuration": 212
+    }
+  }
+]
+}
