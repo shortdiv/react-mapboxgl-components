@@ -21,8 +21,9 @@ class Source extends Component {
     }
   }
   componentWillReceiveProps(nextProps) {
+    const { map } = this.context
     if(nextProps.data != this.props.data) {
-      debugger
+      map.getSource(this.props.id).setData(nextProps.data)
     }
   }
   render() {
