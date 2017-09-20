@@ -11,8 +11,10 @@ class HubwayBike extends Component {
   constructor(props) {
     super(props)
     this.state = {
+      data: data,
       center: [-71.114214, 42.366621],
-      zoom: 13,
+      zoom: 11,
+      bikePos: null,
       bikeRoutes: {
         type: "FeatureCollection",
         features: [{
@@ -25,6 +27,7 @@ class HubwayBike extends Component {
       },
       coords: [],
       ride: null,
+      timeStamp: null,
       index: 0,
       raf: 0
     }
@@ -37,31 +40,41 @@ class HubwayBike extends Component {
   }
   componentDidMount() {
     this.setState({
+      timeStamp: performance.now(),
       raf: requestAnimationFrame(this.rideOn.bind(this))
-    });
+    })
   }
   componentWillUnmount() {
     cancelAnimationFrame(this.state.raf)
   }
   rideOn() {
-    let { index, bikeRoutes } = this.state
-    const journey = data.features[0].geometry.coordinates
-    if(index < journey.length) {
-      bikeRoutes.features[0].geometry.coordinates.push(journey[index])
+    let { index, bikeRoutes, timeStamp, raf } = this.state
+    let time = performance.now()
+    const speed = 60;
+    const data = this.state.data.features[0]
+    const duration = data.properties.tripDuration
+    const path = turf.lineString(data.geometry.coordinates)
+    const distance = turf.lineDistance(path, 'miles')
+
+    const currentTime = time - timeStamp
+    if(((currentTime * speed) / (duration * 1000)) >= 1) {
+      cancelAnimationFrame(this.state.raf)
+    } else {
+      var currentDistance = (currentTime * speed) / (duration * 1000) * distance;
+      var waypoint = turf.along(path, currentDistance, "miles")
       this.setState({
-        bikeRoutes: bikeRoutes,
-        index: this.state.index + 1,
+        timeStamp: timeStamp,
+        bikePos: waypoint,
         raf: requestAnimationFrame(this.rideOn.bind(this))
       })
-    } else {
-      cancelAnimationFrame(this.state.raf)
     }
   }
   render() {
     const {
       center,
       zoom,
-      bikeRoutes
+      bikeRoutes,
+      bikePos
     } = this.state
     return (
       <BaseMap
@@ -76,18 +89,14 @@ class HubwayBike extends Component {
         <Source
           id="bikeRoutes"
           type="geojson"
-          data={bikeRoutes}
+          data={bikePos}
         />
         <Layer
           id="bikeRoutes"
-          type="line"
+          type="symbol"
           sourceId="bikeRoutes"
-          styles={{
-            "paint": {
-              "line-color": "red",
-              "line-opacity": 0.75,
-              "line-width": 5
-            }
+          layout={{
+            "icon-image": "star-15"
           }}
         />
       </BaseMap>

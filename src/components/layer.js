@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react'
+var isEqual = require('lodash.isequal');
 
 class Layer extends Component {
   componentDidMount() {
@@ -7,25 +8,24 @@ class Layer extends Component {
       id,
       sourceId,
       type,
-      styles,
       before
     } = this.props
     const sourceLayer = this.props.sourceLayer ? this.props.sourceLayer : ""
-    const { paint } = styles
+    const paint = this.props.paint ? this.props.paint : {}
+    const layout = this.props.layout ? this.props.layout : {}
     const sourceSrc = map.getSource(sourceId)
+      debugger
     map.addLayer({
-      id: id,
-      type: type,
-      source: sourceId,
+      "id": id,
+      "type": type,
+      "source": sourceId,
       "source-layer": sourceLayer,
-      paint: styles.paint
+      "paint": paint,
+      "layout": layout
     }, before)
   }
   componentWillReceiveProps(nextProps) {
-    if(nextProps.data === this.props.data) {
-      //do something/
-debugger
-    }
+    const { map } = this.context
   }
   render() {
     return null
