@@ -13,7 +13,7 @@ class HubwayBike extends Component {
     this.state = {
       data: data,
       center: [-71.114214, 42.366621],
-      zoom: 11,
+      zoom: 14,
       bikePos: null,
       bikeRoutes: {
         type: "FeatureCollection",
