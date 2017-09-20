@@ -13,7 +13,7 @@ class HubwayBike extends Component {
     this.state = {
       data: data,
       center: [-71.114214, 42.366621],
-      zoom: 11,
+      zoom: 14,
       bikePos: null,
       bikeRoutes: {
         type: "FeatureCollection",
@@ -50,7 +50,7 @@ class HubwayBike extends Component {
   rideOn() {
     let { index, bikeRoutes, timeStamp, raf } = this.state
     let time = performance.now()
-    const speed = 60;
+    const speed = 15;
     const data = this.state.data.features[0]
     const duration = data.properties.tripDuration
     const path = turf.lineString(data.geometry.coordinates)
@@ -96,7 +96,7 @@ class HubwayBike extends Component {
           type="symbol"
           sourceId="bikeRoutes"
           layout={{
-            "icon-image": "star-15"
+            "icon-image": "bicycle-15"
           }}
         />
       </BaseMap>
