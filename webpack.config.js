@@ -29,7 +29,7 @@ module.exports = {
         include: __dirname,
       },
       {
-        test: /\.json$/,
+        test: /\.json|.geojson$/,
         loader: 'json-loader'
       },
       {
