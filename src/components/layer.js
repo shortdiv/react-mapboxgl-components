@@ -31,6 +31,22 @@ export default class Layer extends Component {
       "paint": paint,
       "layout": layout
     })
+    this.createEvents(id)
+  }
+  createEvents(layerId) {
+    const { map } = this.context
+    const events = {
+      onClick: 'click',
+      onMouseEnter: 'mouseenter',
+      onMouseLeave: 'mouseleave',
+      onMouseMove: 'mousemove'
+    }
+    Object.keys(events).forEach((evt) => {
+      let handler = this.props[evt] || null
+      if(handler) {
+        map.on(events[evt], layerId, handler)
+      }
+    })
   }
   componentWillReceiveProps(nextProps) {
     const { map } = this.context

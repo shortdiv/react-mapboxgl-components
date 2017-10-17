@@ -23,7 +23,6 @@ export default class BaseMap extends Component {
       styles,
       center,
       zoom,
-      onClick
     } = this.props
     const map = new MapboxGl.Map({
       container: this.mapbox,
@@ -35,7 +34,6 @@ export default class BaseMap extends Component {
       this.setState({
         map
       })
-      map.on('click', onClick)
     })
   }
   shouldComponentUpdate(nextProps, nextState) {
