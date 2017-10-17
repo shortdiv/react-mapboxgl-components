@@ -1,7 +1,10 @@
 import React, { Component, PropTypes } from 'react';
 const MapboxGl = require('mapbox-gl');
 
-class BaseMap extends Component {
+export default class BaseMap extends Component {
+  static childContextTypes = {
+    map: PropTypes.object
+  }
   constructor(props) {
     super(props)
     MapboxGl.accessToken = "pk.eyJ1IjoiYWxscnlkZXIiLCJhIjoidWs5cUFfRSJ9.t8kxvO3nIhCaAl07-4lkNw"
@@ -9,13 +12,11 @@ class BaseMap extends Component {
       map: null
     }
   }
-
   getChildContext() {
     return {
       map: this.state.map
     }
   }
-
   componentDidMount() {
     const {
       mapStyle,
@@ -44,6 +45,10 @@ class BaseMap extends Component {
       nextState.map !== this.state.map
     )
   }
+  componentWillUnmount() {
+    const { map } = this.state
+    if (map) { map.remove() }
+  }
 
   render() {
     const { map } = this.state
@@ -58,10 +63,3 @@ class BaseMap extends Component {
     )
   }
 }
-
-BaseMap.childContextTypes = {
-  map: PropTypes.object
-}
-
-
-export default BaseMap

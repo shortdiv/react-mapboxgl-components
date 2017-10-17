@@ -1,6 +1,14 @@
 import React, { Component, PropTypes } from 'react'
 
-class Source extends Component {
+export default class Source extends Component {
+  static propTypes = {
+    id: PropTypes.string,
+    type: PropTypes.string,
+    data: PropTypes.object
+  }
+  static contextTypes = {
+    map: PropTypes.object
+  }
   constructor(props) {
     super(props)
   }
@@ -26,13 +34,12 @@ class Source extends Component {
       map.getSource(this.props.id).setData(nextProps.data)
     }
   }
+  componentWillUnmount() {
+    const { map } = this.context
+    const { id } = this.props
+    map.removeSource(id)
+  }
   render() {
     return null
   }
 }
-
-Source.contextTypes = {
-  map: PropTypes.object
-}
-
-export default Source
